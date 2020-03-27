@@ -4,7 +4,6 @@
 2. 《Java微服务实战》
 ### 读书笔记(非技术类)
 1. [《远见》](https://github.com/telzhou618/reading-notes/tree/master/books/2.%E8%BF%9C%E8%A7%81)
-1. 《远见》
 2. 《自控力》
 3. 《万万没想到》
 4. 《影响力》
